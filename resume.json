@@ -1,0 +1,542 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Jonathan Kline",
+    "label": "Experienced security architect, embedded engineer and CTO",
+    "image": "",
+    "email": "jonathan.kline@isaidno.net",
+    "phone": "+1 (414) 975-1958",
+    "url": "",
+    "summary": "* 20+ years experience with Linux / Unix kernel and firmware reverse engineering, modification and development\n* 7+ years Hypervisor / Xen development\n* 24+ years of Linux (Red Hat, CentOS, Fedora Core, Debian, Ubuntu, and Slackware) and Unix (Solaris, Tru64, HP-UX and AIX) administration\n* 15+ years executive leadership\n* 15+ years offensive / defensive cyber security\n* Successfully grew two companies from early stage startup through acquisition\n* Proficient in C and perl; Working knowledge of php, c++, python, rust, ruby and assembly (x86, x86 64, PPC, MIPS, ARM, Sparc)\n* Experienced proposal writer, leader, innovator, entrepreneur and program manager",
+    "location": {
+      "countryCode": "US",
+      "city": "Huntsville",
+      "region": "Alabama"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "jonathanakline",
+        "url": "https://www.linkedin.com/in/jonathanakline/"
+      },{
+      	"network": "GitHub",
+      	"username": "klinejonathan",
+      	"url": "https://github.com/klinejonathan"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Wind River",
+      "position": "Principal Architect Security Solutions",
+      "startDate": "2021-01-31",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+	      "Worked with C-level executives to develop new security markets, requirements and opportunities",
+	      "Hosted 12-part webinar series on security",
+	      "Developed technical sales and marketing collateral",
+	      "Lead customer integration activities",
+	      "Lead and encourage OSS contributions",
+	      "Design, developed and integrated a broad range of Linux security capabilities",
+	      "Developed and conveyed full security story across all levels of the software and embedded device development lifecycle", 
+	      "Implemented and maintained a hardware integration lab supporting local and remote engineers significantly increasing utilization and providing significant cost savings"],
+      "url": "https://www.linkedin.com/company/wind-river/",
+      "location": "Huntsville-Decatur-Albertville Area"
+    },
+    {
+      "name": "Star Lab",
+      "position": "Chief Technology Officer (CTO)",
+      "startDate": "2015-12-31",
+      "endDate": "",
+      "summary": "",
+      "highlights": ["Linux kernel & hypervisor development", 
+	      "Hypervisor / Kernel performance characterization (Interrupt latency, resource scheduling, device throughput, real-time operations)",
+	      "Configuring / deploying Xen-based solutions as a separation kernel for multi-level security", 
+	      "Transitioning Xen towards a microkernel architecture", 
+	      "Cross-domain solution development utilizing a Xen-based architecture", 
+	      "AWS implementation, API, migration, access control", 
+	      "Continuous integration (CI) & release management / engineering", 
+	      "Automated testing / deployment of kernel / hypervisor solutions", 
+	      "Product Management", 
+	      "Chief architect for cyber security solutions", 
+	      "Technical Leadership (Mentorship for 20+ engineers)",
+	      "Commercial sales", 
+	      "Product / market development", 
+	      "Lead offensive / red-team engagements", 
+	      "Lead customer integration efforts", 
+	      "Technical recruiting / retention (Grew engineering from 3-20+ multi-discipline engineers)", 
+	      "Subject matter expert (Technology protection, Access Control, Cyber Security, Secure Boot, Cryptography)", 
+	      "Present at conferences / symposiums", 
+	      "NAIP, Common Criteria, NIST, IEC / ANSI, RMF and FIPS documentation / artifact packages for software / system accreditation", 
+	      "Commercial Solutions for Classified (CSfC) development, implementation & accreditation", 
+	      "Applying hypervisor, and Linux kernel solutions to address RMF (NIST 800-53) & IEC/ANSI 62443 Controls", 
+	      "IoT / embedded full lifecycle security architecture, design & implementation", 
+	      "Design, develop & deploy security solutions", 
+	      "Apply machine learning / game theory to cyber security and cyber defense", 
+	      "Proposal development & support", 
+	      "OSS coordination/collaboration", 
+	      "Participate in multiple industry working groups / standardization committees",
+	      "Model based system engineering (MBSE)", 
+	      "Development of technical marketing collateral",  
+	      "IT Manager / System & network administrator"],
+      "url": "https://www.linkedin.com/company/star-lab/",
+      "location": "Huntsville, Alabama Area"
+    },
+    {
+      "name": "Jalan Rigging",
+      "position": "Owner and Rigger",
+      "startDate": "2017-05-31",
+      "endDate": "",
+      "highlights": [],
+      "url": "",
+      "location": "Huntsville, Alabama, United States"
+    },
+    {
+      "name": "2Checkout",
+      "position": "VP Engineering / CTO",
+      "startDate": "2014-10-31",
+      "endDate": "2015-11-30",
+      "summary": "",
+      "highlights": ["Managed software development and quality assurance departments", 
+	"Grew engineering from 5 members to 22 members", 
+	"Fostered collaboration between infrastructure, devops, development, and product development", 
+	"Technical liaison between engineering and the rest of the business", 
+	"Implemented Continuous Integration (CI) and nightly builds", 
+	"Separated deployed software into PCI DSS and non-PCI domains (CI was rolled out to non PCI components)", 
+	"Development with the Catalyst MVC framework", 
+	"Automated release process", 
+	"Established automated testing strategy", 
+	"Release planning and coordination", 
+	"Modified Agile development", 
+	"Architected technical solutions", 
+	"Technical recruiting and retention"],
+      "url": "",
+      "location": "Columbus, Ohio Area"
+    },
+    {
+      "name": "Raytheon Centers of Innovation (COI)",
+      "position": "Deputy Technical Director",
+      "startDate": "2014-04-30",
+      "endDate": "2014-12-31",
+      "summary": "",
+      "highlights": [
+	"Managed 9M Internal Research & Development (IRAD) budget for software, firmware and hardware solutions related to offensive and defensive cyber security", 
+	"Chief architect for cyber security solutions", 
+	"Identified intellectual property (IP) that could be sustained as a product, capability or key differentiator", 
+	"Technical interface with business leadership and key customers", 
+	"Ensured COI lead Raytheon’s Cyber strategy and established subject matter expertise (SME)", 
+	"Identify key markets for expansion, growth and technical excellence", 
+	"Earned Value Management (EVMS)", 
+	"Fostered innovation, creativity and results", 
+	"Provide technical oversight to 300+ researchers, technologists & engineers", 
+	"Technical recruiting and retention"],
+      "url": ""
+    },
+    {
+      "name": "Raytheon Pikewerks",
+      "position": "CTO",
+      "startDate": "2007-03-31",
+      "endDate": "2014-12-31",
+      "summary": "",
+      "highlights": [
+	"Linux / Unix kernel development (C & asm)", 
+	"Firmware & hardware reverse engineering, modification and development", 
+	"Developed In-memory forensics, Anti-Tamper, and Cross domain solutions", 
+	"Cyber security and insider threat detection", 
+	"Machine learning for cyber security", 
+	"Extracted, reverse engineered, modified and replaced firmware on multiple mobile devices, embedded systems, and proprietary hardware", 
+	"Identified, root-caused and developed workarounds for multiple issues related to kernel reference counts, semaphores, & locks", 
+	"Agile / SCRUM driven software & firmware development across 6+ sites", 
+	"Wrote multiple winning Research & Development (R&D) proposals ranging from 25K - 25M", 
+	"Lead multiple firmware, kernel and mobile engineering teams of 8+ distributed developers", 
+	"Technical sales for Anti-Tamper, In-memory forensics, and various cyber capabilities / products", 
+	"Oversee new technology adoption, integration, and research", 
+	"Support transition of R&D efforts to production with QA, testing, and support", 
+	"Provide program management support for 15+ R&D efforts", 
+	"Software lead & chief architect for enterprise-wide Low Cost Secure Solution", 
+	"Chief Architect for Secure Cloud Solution", 
+	"Designed and implemented split network for IP protection and Internet separation", 
+	"Supported company growth from 2 developers to 50+ developers including acquisition and integration", 
+	"Constructed and managed multiple facilities to US DOD standards (DCID 6/9 & ICD704)", 
+	"Information Assurance Manager (IAM) / Information Systems Security Manager (ISSM) and system administrator for multiple PL1, PL2 and PL3 systems (DCID 6/3 & ICD709)", 
+	"Provide technical oversight to 35 researchers and technologists", 
+	"Provide executive leadership and oversight", 
+	"Designed and implemented a VoIP phone system", 
+	"Managed 2 person IT department; Integrated and transitioned existing IT infrastructure with Raytheon and Raytheon SI Government Solutions"],
+      "url": ""
+    },
+    {
+      "name": "Fort William LLC",
+      "position": "Director of Technical Services",
+      "startDate": "2005-03-31",
+      "endDate": "2007-05-31",
+      "summary": "",
+      "highlights": [
+	"Data-driven software development in perl, JavaScript, XML, & CSS", 
+	"Developed interactive forms and documents using dynamic PDFs and rtf", 
+	"Enabled code modularization and reuse", 
+	"Refactored existing code base through the development & use of modules, subroutines, & libraries", 
+	"Developed XML / SOAP interfaces to external vendors and entities", 
+	"Established APIs and Integrated dynamic content from multiple external partners", 
+	"Data processing, manipulation and warehousing", 
+	"LAMP Stack development & administration", 
+	"High-availability (HA) Linux and network administration", 
+	"Developed, implemented and routinely tested disaster recovery plan", 
+	"Complied with government protection guidelines for financial and health care information"],
+      "url": ""
+    },
+    {
+      "name": "US Government",
+      "position": "Software Engineer",
+      "startDate": "2001-06-30",
+      "endDate": "2005-03-31",
+      "highlights": [],
+      "url": "https://www.linkedin.com/company/us-government/"
+    },
+    {
+      "name": "Milwaukee School of Engineering",
+      "position": "Assistant Unix Administrator",
+      "startDate": "2001-08-31",
+      "endDate": "2004-09-30",
+      "summary": "",
+      "highlights": [
+	"Linux & Unix (Solaris, HP-UX, Tru64) system administration", 
+	"Supported redundant fault-tolerant Foundry and HP networking infrastructure for 8,000 students, faculty, & staff distributed across 12+ buildings", 
+	"Maintained edge connectivity to WiscNet", 
+	"Developed and maintained “secure” shell server for students", 
+	"Supported and maintained core network services (DNS, DHCP, LDAP, NIS, RIP, BGP, etc.)", 
+	"Implemented and maintained SPAM / Virus mail proxy (forward to MS Exchange cluster)", 
+	"Maintained /16 IP address space including routing and subnetting", 
+	"Maintained campus wide RIP, OSPF and BGP routing tables for a fault tolerant network", 
+	"Maintained web servers for university, all academic departments and students", 
+	"Implemented bandwidth monitoring and QoS (implementation was published in Sys Admin)", 
+	"Scripting and software development", 
+	"Red team Microsoft SQL cluster and data warehouse", 
+	"Perimeter and internal network security (Checkpoint fw-1 & iptables)", 
+	"On-call support as necessary"],
+      "url": "https://www.linkedin.com/school/milwaukee-school-of-engineering/"
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Kettering University",
+      "area": "Engineering/Industrial Management",
+      "studyType": "Master of Science (MS) Engineering Management (MSEM)",
+      "startDate": "2010-12-31",
+      "endDate": "2013-12-31",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Milwaukee School of Engineering",
+      "area": "Computer Engineering",
+      "studyType": "Bachelors of Science",
+      "startDate": "2001-12-31",
+      "endDate": "2006-12-31",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "International School of MN",
+      "area": "",
+      "studyType": "",
+      "startDate": "1997-12-31",
+      "endDate": "2001-12-31",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "Commercial pilot (ASEL, ASES, AMEL, Glider)",
+      "issuer": "FAA"
+    },
+    {
+      "name": "Instrument Airplane",
+      "issuer": "FAA"
+    },
+    {
+      "name": "D License",
+      "issuer": "USPA"
+    },
+    {
+      "name": "Acellerated Freefall (AFF) Instructor",
+      "issuer": "USPA"
+    },
+    {
+      "name": "Decompression Procedures (Open and closed circuit)",
+      "issuer": "TDI"
+    },
+    {
+      "name": "Master parachute rigger (Back, Chest & Seat)",
+      "issuer": "Federal Aviation Administration"
+    },
+    {
+      "name": "CCR Full Cave",
+      "issuer": "TDI"
+    },
+    {
+      "name": "Advanced Mixed Gas CCR (100M)",
+      "issuer": "TDI"
+    }
+  ],
+  "publications": [
+    {
+      "name": "HIGH PERFORMANCE TRUSTED EXECUTION ENVIRONMENT",
+      "publisher": "2019 NDIA GROUND VEHICLE SYSTEMS ENGINEERING AND TECHNOLOGY SYMPOSIUM",
+      "releaseDate": "2019-07-31",
+      "summary": "This paper explores the construction of a Trusted Execution Environment (TEE) which doesn’t rely on TrustZone or specific processing modes in order to achieve a high-performance operating environment with multiple layers of hardware enforced confidentiality and integrity. The composed TEE uses hardware intellectual property (IP) blocks, existing hardware-level protections, a hypervisor, Linux security module (LSM), and Linux kernel capabilities including a file system in order to provide the performance and multiple layers of confidentiality and integrity. Additionally, the TEE composition explores both open source and commercial solutions for achieving the same result.",
+      "url": ""
+    },
+    {
+      "name": "YOU’VE IMPLEMENTED ENCRYPTION, NOW WHAT? Using Mandatory Access Control & Separation Techniques to increase system integrity during and after an attack",
+      "publisher": null,
+      "releaseDate": "2016-06-30",
+      "summary": "Vehicle and transportation systems provide a challenging use case for security, where physical and virtual access is virtually unlimited, and its relatively easy to procure replacement parts, components, and even whole vehicles to continue attacking a system. Given these challenges in the vehicle deployment model, the goal shifts from denying an attacker access, to limiting the damage an attacker can do once access is achieved. Specifically, the integrity and availability of the system (vehicle) must be maintained after a successful compromise. The use of encryption is only the beginning in terms of securing vehicle systems and is generally not sufficient to preserve the integrity of these systems during or after a successful attack.\nWe will address:\n1. Security fallacy of “just encrypt”\n2. Attack flow and overview (setting the stage for MAC) 3. Introduction of Mandatory Access Control (MAC)\n4. Kernel implementations of MAC\n5. Hypervisor implementations of MAC\n6. Further decreases to the attack surface",
+      "url": ""
+    }
+  ],
+  "skills": [
+    {
+      "name": "Linux",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Reverse Engineering",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Network Security",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "FreeBSD",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "C",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Network Administration",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Distributed Systems",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Firmware",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Software Engineering",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Cyber-security",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "MySQL",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Kernel Programming",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Continuous Integration",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Cloud Computing",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Program Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Jenkins",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Information Security",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Solaris",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Kernel Debugging",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Scrum",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "DevOps",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "System Architecture",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Software Development",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "git",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Computer Security",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Subversion",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Linux System Administration",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Open Source",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Amazon Web Services (AWS)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Innovation",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Security",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Engineering Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Integration",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Technical Leadership",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Kernel",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Linux Kernel",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Apache",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Debian",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Unix",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Perl",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Firewalls",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Software Development Life Cycle (SDLC)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Infrastructure",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Architectures",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native Speaker"
+    }
+  ],
+  "interests": [],
+  "references": [
+    {
+      "name": "Sandy Ring",
+      "reference": "Jonathan is the most talented person that I have ever (and probably will ever) work with. His intelligence, creativity, and dedication are unmatched."
+    }
+  ],
+  "projects": [],
+  "meta": {
+    "version": "v1.0.0",
+    "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
+  }
+}
