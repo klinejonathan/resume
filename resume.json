@@ -2,37 +2,34 @@
   "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
   "basics": {
     "name": "Jonathan Kline",
-    "label": "Hands on CTO & security architect",
+    "label": "Hands on CTO &security architect",
     "image": "",
     "email": "jonathan.kline@isaidno.net",
-    "phone": "+1 (414) 975-1958",
+    "phone": "4149751958",
     "url": "",
-    "summary": "- 20+ years experience with Linux / Unix kernel and firmware reverse engineering, modification and development\n- 7+ years Hypervisor (Xen/kvm) development\n- 24+ years of Linux (Red Hat, CentOS, Fedora Core, Debian, Ubuntu, and Slackware) and Unix (Solaris, Tru64, HP-UX and AIX) administration\n- 15+ years executive leadership\n- 15+ years offensive / defensive cyber security\n- Successfully grew two companies from early stage startup through acquisition\n- Proficient in C and perl; Working knowledge of php, c++, python, rust, ruby and assembly (x86, x86 64, PPC, MIPS, ARM, Sparc)\n- Experienced product owner, proposal writer, leader, innovator, entrepreneur and program manager",
+    "summary": "* 20+ years experience with Linux / Unix kernel and firmware reverse engineering, modification and development\n* 7+ years Hypervisor (Xen/kvm) development\n* 24+ years of Linux (Red Hat, CentOS, Fedora Core, Debian, Ubuntu, and Slackware) and Unix (Solaris, Tru64, HP-UX and AIX) administration\n* 15+ years executive leadership and team building\n* 15+ years offensive / defensive cyber security (Full security lifecycle; hw, sw & firmware)\n* Successfully grew two companies from early stage startup through acquisition / exit\n* Proficient in C and perl; Working knowledge of php, c++, python, rust, ruby and assembly (x86, x86 64, PPC, MIPS, ARM, Sparc)\n* Experienced product owner, proposal writer, leader, innovator, entrepreneur and program manager",
     "location": {
       "countryCode": "US",
       "city": "Huntsville",
-      "region": "Alabama"
+      "region": "AL",
+      "address": "United States"
     },
     "profiles": [
       {
         "network": "LinkedIn",
         "username": "jonathanakline",
         "url": "https://www.linkedin.com/in/jonathanakline/"
-      },{
-      	"network": "GitHub",
-      	"username": "klinejonathan",
-      	"url": "https://github.com/klinejonathan"
       }
     ]
   },
   "work": [
     {
-      "name": "Wind River",
+      "name": "Star Lab, a Wind River Company",
       "position": "Principal Architect Security Solutions",
       "startDate": "2021-01-31",
       "endDate": "",
       "highlights": [],
-      "summary": "* Worked with C-level executives to develop new security markets, requirements and opportunities\n* Vertical development \n* Hosted 12-part webinar series & recurring sessions on security\n* Developed technical sales and marketing collateral\n* Acted as a liaison between marketing, product and engineering to ensure product releases and feature integration\n* Lead customer integration activities\n* Partner management and integration\n* Lead and encourage OSS contributions\n* Design, developed and integrated a broad range of Linux security capabilities\n* Developed and conveyed full security story across all levels of the software and embedded device development lifecycle\n* Setup and maintain gitlab CI and docker registry\n* Implemented and maintained a hardware integration lab supporting local and remote engineers significantly increasing utilization and providing significant cost savings",
+      "summary": "* Worked with C-level executives to develop new security markets, requirements and opportunities\n* Vertical development \n* Hosted 12-part webinar series & recurring sessions on holistic security (hardware, firmware, software)\n* Provide embedded security training to customers and partners\n* Developed technical sales and marketing collateral\n* Acted as a liaison between marketing, product and engineering to ensure product releases and feature integration\n* Lead customer integration activities\n* Partner management and integration\n* Lead and encourage OSS contributions\n* Design, develop and integrate a broad range of Linux security capabilities\n* Embedded security development and integration through the entire device (hardware, firmware, runtime environment)\n* Developed and conveyed full security story across all levels of the software and embedded device development lifecycle\n* Setup and maintain gitlab CI and docker registry\n* Metrics aggregation and visualization using prometheus / grafana\n* Implemented and maintained a hardware integration lab supporting local and remote engineers significantly increasing utilization and providing significant cost savings",
       "url": "https://www.linkedin.com/company/wind-river/",
       "location": "Huntsville-Decatur-Albertville Area"
     },
@@ -42,7 +39,7 @@
       "startDate": "2015-12-31",
       "endDate": "",
       "highlights": [],
-      "summary": "* Linux kernel & hypervisor development\n* Hypervisor / Kernel performance characterization (Interrupt latency, resource scheduling, device throughput, real-time operations)\n* Configuring / deploying Xen and kvm based solutions as a separation kernel for multi-level security\n* Transitioning Xen towards a microkernel architecture\n* Cross-domain solution development utilizing a Xen-based architecture \n* AWS implementation, API, migration, access control\n* Continuous integration (CI) & release management / engineering\n* Automated testing / deployment of kernel / hypervisor solutions\n* Product Management\n* Chief architect for cyber security solutions\n* Technical Leadership (Mentorship for 20+ engineers) across 4 sites and multiple time zones\n* Commercial sales\n* Product / market development\n* Lead offensive / red-team engagements\n* Lead customer integration efforts\n* Technical recruiting / retention (Grew engineering from 3-20+ multi-discipline engineers)\n* Subject matter expert (Technology protection, Access Control, Cyber Security, Secure Boot, Cryptography)\n* Present at conferences / symposiums\n* NAIP, Common Criteria, NIST, IEC / ANSI, RMF and FIPS documentation / artifact packages for software / system accreditation\n* Commercial Solutions for Classified (CSfC) development, implementation & accreditation\n* Applying hypervisor, and Linux kernel solutions to address RMF (NIST 800-53) & IEC/ANSI 62443 Controls\n*  IoT / embedded full lifecycle security architecture, design & implementation\n*  Design, develop & deploy security solutions\n* Apply machine learning / game theory to cyber security and cyber defense\n* Proposal development & support\n* OSS coordination/collaboration\n* Participate in multiple industry working groups / standardization committees\n* Model based system engineering (MBSE)\n* Development of technical marketing collateral\n* IT Manager / System & network administrator",
+      "summary": "* Linux kernel & hypervisor development\n* Hypervisor / Kernel performance characterization (Interrupt latency, resource scheduling, device throughput, real-time operations)\n* Configuring / deploying Xen and kvm based solutions as a separation kernel for multi-level security\n* Transitioning Xen towards a microkernel architecture\n* Cross-domain solution development utilizing a Xen-based architecture \n* AWS implementation, API, migration, access control\n* Continuous integration (CI) & release management / engineering\n* Automated testing / deployment of kernel / hypervisor solutions\n* Product Management\n* Chief architect for cyber security solutions\n* Support holistic security integration (hardware, firmware, software, cyber)\n* Technical Leadership (Mentorship for 20+ engineers) across 4 sites and multiple time zones\n* Product / market development\n* Lead offensive / red-team and customer integration engagements\n* Technical recruiting / retention (Grew engineering from 3-20+ multi-discipline engineers)\n* Subject matter expert (Technology protection, Access Control, Cyber Security, Secure Boot, Cryptography)\n* Present at conferences / symposiums\n* NAIP, Common Criteria, NIST, IEC / ANSI, RMF and FIPS documentation / artifact packages for software / system accreditation\n* Commercial Solutions for Classified (CSfC) development, implementation & accreditation\n* Applying hypervisor, and Linux kernel solutions to address RMF (NIST 800-53) & IEC/ANSI 62443 Controls\n*  IoT / embedded full lifecycle security architecture, design & implementation\n*  Design, develop & deploy embedded security solutions\n* Apply machine learning / game theory to cyber security and cyber defense\n* Proposal development & support\n* OSS coordination/collaboration\n* Participate in multiple industry working groups / standardization committees\n* Model based system engineering (MBSE)\n* Development of technical marketing collateral\n* IT Manager / System & network administrator (Linux, Network, Office365)",
       "url": "https://www.linkedin.com/company/star-lab/",
       "location": "Huntsville, Alabama Area"
     },
@@ -72,7 +69,7 @@
       "startDate": "2014-04-30",
       "endDate": "2014-12-31",
       "highlights": [],
-      "summary": "• Managed 9M Internal Research & Development (IRAD) budget for software, firmware and hardware solutions related to offensive and defensive cyber security\n• Chief architect for cyber security solutions\n• Identified intellectual property (IP) that could be sustained as a product, capability or key differentiator\n• Technical interface with business leadership and key customers\n• Ensured COI lead Raytheon’s Cyber strategy and established subject matter expertise (SME)\n• Identify key markets for expansion, growth and technical excellence\n• Earned Value Management (EVMS)\n• Fostered innovation, creativity and results\n• Provide technical oversight to 300+ researchers, technologists & engineers\n• Technical recruiting and retention",
+      "summary": "* Managed 9M Internal Research & Development (IRAD) budget for software, firmware and hardware solutions related to offensive and defensive cyber security\n* Chief architect for cyber security solutions\n* Identified intellectual property (IP) that could be sustained as a product, capability or key differentiator\n* Technical interface with business leadership and key customers\n* Ensured COI lead Raytheon’s Cyber strategy and established subject matter expertise (SME)\n* Identify key markets for expansion, growth and technical excellence\n* Earned Value Management (EVMS)\n* Fostered innovation, creativity and results\n* Provide technical oversight to 300+ researchers, technologists & engineers\n* Technical recruiting and retention",
       "url": ""
     },
     {
@@ -130,15 +127,6 @@
       "endDate": "2006-12-31",
       "score": "",
       "courses": []
-    },
-    {
-      "institution": "International School of MN",
-      "area": "",
-      "studyType": "",
-      "startDate": "1997-12-31",
-      "endDate": "2001-12-31",
-      "score": "",
-      "courses": []
     }
   ],
   "awards": [],
@@ -194,6 +182,11 @@
   ],
   "skills": [
     {
+      "name": "Agile Methodologies",
+      "level": "",
+      "keywords": []
+    },
+    {
       "name": "Linux",
       "level": "",
       "keywords": []
@@ -205,16 +198,6 @@
     },
     {
       "name": "Network Security",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "FreeBSD",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Star Lab, a Wind River Company",
       "level": "",
       "keywords": []
     },
@@ -235,6 +218,11 @@
     },
     {
       "name": "Firmware",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "FreeBSD",
       "level": "",
       "keywords": []
     },
@@ -433,7 +421,7 @@
   "interests": [],
   "references": [
     {
-      "name": "Valentine Nwachukwu",
+      "name": "valentine nwachukwu",
       "reference": "I am one of the lucky few to get to work with Jonathan (JK). In my time at Wind River, I appreciate the fact that JK was one of the most intelligent people in the area of design and development of secure processors, and how they can be used to influence, control or solve security-related challenges that are exposed at runtime. He truly has both the breadth and depth of knowledge in the areas of Linux, embedded software, mission-critical systems, and cybersecurity.  More importantly, he is one of the few people that I can confidently say would truly understand the challenges and trade offs that occur in a production / design environment for any technology or product he is managing in the realm.\n\nAnother key strength JK brings to the table is his ability to drive business objectives and sales with smart solutions that work for the customer. In fact, his customer obsession has many times led to creation of products that helped the business while also providing our customers with the exact features they requested. In my time knowing him, JK has found a way to go above and beyond for our customers while still making sure the bottom line is achieved."
     },
     {
