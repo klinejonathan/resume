@@ -32,7 +32,7 @@
       "name": "Star Lab, A Wind River Company",
       "position": "Principal Architect Security Solutions",
       "startDate": "2021-01-31",
-      "endDate": "",
+      "endDate": "2023-06",
       "highlights": [],
       "summary": "* Worked with C-level executives to develop new security markets, requirements and opportunities\n* Vertical development \n* Hosted 12-part webinar series & recurring sessions on holistic security (hardware, firmware, software)\n* Provide embedded security training to customers and partners\n* Developed technical sales and marketing collateral\n* Acted as a liaison between marketing, product and engineering to ensure product releases and feature integration\n* Onboard and mentor new members of engineering, QA, and sales / marketing\n* Lead customer integration, design & architecture activities\n* Own and execute customer security assessments\n* Partner / vendor management and integration\n* Lead and encourage OSS contributions\n* Design, develop and integrate a broad range of Linux security capabilities\n* Threat modeling\n* Att&ck analysis, mapping, threat modeling & implementation\n* Embedded security development and integration through the entire device (hardware, firmware, runtime environment)\n* Yocto recipe development and maintenance\n* Linux security (eBPF, pam, systemd, dm-verity, LSM)\n* ARM security & TrustZone\n* DevOps / DevSecOps\n* Application security (static / dynamic analysis, OWSAP, type/memory safe languages)\n* Developed and conveyed full security story across all levels of the software and embedded device development lifecycle\n* Setup and maintain gitlab, gitlab CI and docker registry\n* Metrics (performance, cost, system activity) aggregation and visualization using prometheus / grafana\n* Log / event collection and aggregation using ELK stack\n* Implemented and maintained a hardware integration lab supporting local and remote engineers significantly increasing utilization and providing significant cost savings\n* Support & maintain CMMC compliant network\n* Develop, maintain and integrate security solutions for FedRAMP, NIST 800-171, NIAP, Common Criteria and DISA STIG environments",
       "url": "https://www.linkedin.com/company/wind-river/",
@@ -42,7 +42,7 @@
       "name": "Star Lab",
       "position": "Chief Technology Officer (CTO)",
       "startDate": "2015-12-31",
-      "endDate": "",
+      "endDate": "2023-06",
       "highlights": [],
       "summary": "* Linux kernel & hypervisor development\n* Hypervisor / Kernel performance characterization (Interrupt latency, resource scheduling, device throughput, real-time operations)\n* Configuring / deploying Xen/kvm-based solutions as a separation kernel for cross domain & multi-level security\n* Transitioning Xen towards a microkernel architecture\n* AWS implementation, API, migration, access control\n* Agile development, Continuous integration (CI) & release management / engineering\n* Automated testing / deployment of kernel / hypervisor solutions\n* Product Management\n* Chief architect for cyber security solutions\n* Support holistic security integration (hardware, firmware, software, cyber)\n* Technical Leadership (Mentorship for 20+ engineers) across 4 sites & multiple time zones\n* Product / market development\n* Lead offensive, red-team & customer engagements\n* Technical recruiting / retention (Grew engineering from 3-20+ multi-discipline engineers)\n* Subject matter expert (Technology protection, Access Control, Cyber Security, Secure Boot, Cryptography)\n* Present at conferences / symposiums\n* NAIP, Common Criteria, RMF & FIPS documentation / artifact packages for software / system accreditation\n* Commercial Solutions for Classified (CSfC) development, implementation & accreditation\n* Applying hypervisor, & Linux kernel solutions to address NIST 800-53 & IEC 62443 Controls\n*  IoT / embedded full lifecycle security architecture, design & implementation\n*  Design, develop & deploy embedded security solutions\n* Apply machine learning / game theory to cyber security and cyber defense\n* Proposal development & support\n* OSS coordination/collaboration\n* Participate in multiple industry working groups / standardization committees\n* Model based system engineering (MBSE)\n* Development of technical marketing collateral\n* System & network administrator (Linux, MacOS, Network, Office365); IT Manager\n* Develop, maintain & support CMMC compliant network",
       "url": "https://www.linkedin.com/company/star-lab/",
@@ -52,10 +52,9 @@
       "name": "Jalan Rigging",
       "position": "Owner and Rigger",
       "startDate": "2017-05-31",
-      "endDate": "",
+      "endDate": "2023-06",
       "highlights": [],
       "summary": "* Safety inspections for TSO components including reserve parachutes, harnesses, and containers\n* Reserve parachute repacks\n* Major and minor repairs and alterations to TSO components\n* Prototyping and light manufacturing\n* Gear recommendations, test fitting and suitability\n* Supervising packing and maintenance performed by non-riggers\n* Industrial sewing machine rebuilds, maintenance and operation",
-      "url": "",
       "location": "Huntsville, Alabama, United States"
     },
     {
@@ -188,7 +187,7 @@
     },
     {
       "name": "YOU’VE IMPLEMENTED ENCRYPTION, NOW WHAT? Using Mandatory Access Control & Separation Techniques to increase system integrity during and after an attack",
-      "publisher": null,
+      "publisher": "Star Lab",
       "releaseDate": "2016-06-30",
       "summary": "Vehicle and transportation systems provide a challenging use case for security, where physical and virtual access is virtually unlimited, and its relatively easy to procure replacement parts, components, and even whole vehicles to continue attacking a system. Given these challenges in the vehicle deployment model, the goal shifts from denying an attacker access, to limiting the damage an attacker can do once access is achieved. Specifically, the integrity and availability of the system (vehicle) must be maintained after a successful compromise. The use of encryption is only the beginning in terms of securing vehicle systems and is generally not sufficient to preserve the integrity of these systems during or after a successful attack.\nWe will address:\n1. Security fallacy of “just encrypt”\n2. Attack flow and overview (setting the stage for MAC) 3. Introduction of Mandatory Access Control (MAC)\n4. Kernel implementations of MAC\n5. Hypervisor implementations of MAC\n6. Further decreases to the attack surface",
       "url": ""
